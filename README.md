@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a research assistant at Zayed University Dubai with (prof. Abdul Kadhim Hayawi)[https://scholar.google.ca/citations?user=9x-gX6sAAAAJ&hl=en] and voluntary researcher in Falcon project at CERN with prof. Sergei Gleyzer. 
+I'm currently a research assistant at Zayed University Dubai with [prof. Abdul Kadhim Hayawi](https://scholar.google.ca/citations?user=9x-gX6sAAAAJ&hl=en) and voluntary researcher in Falcon project at CERN with prof. Sergei Gleyzer. 
 
 I received my bachelor's degree from SGGS Institute of Engineering and Technology Nanded (India) in Electronics and Telecommunication Engineering. I completed my bachelor thesis at NTU Singapore titled "Night-time vehicle classification using unsupervised domain adaptation".
 
