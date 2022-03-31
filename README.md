@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a research assistant at Zayed University Dubai with [prof. Abdul Kadhim Hayawi](https://scholar.google.ca/citations?user=9x-gX6sAAAAJ&hl=en) and voluntary researcher in Falcon project at CERN with [prof. Sergei Gleyzer](http://sergeigleyzer.com/). 
+I'm currently a freelance Data Scientist and a voluntary researcher in Falcon project at CERN with [prof. Sergei Gleyzer](http://sergeigleyzer.com/). 
 
 I received my bachelor's degree from [SGGS Institute of Engineering and Technology](https://www.sggs.ac.in/) Nanded (India) in Electronics and Telecommunication Engineering. I completed my bachelor thesis at [NTU Singapore](https://www.ntu.edu.sg/) titled "Night-time vehicle classification using unsupervised domain adaptation" with [prof. Lam Siew Kei](https://personal.ntu.edu.sg/assklam/).
 
