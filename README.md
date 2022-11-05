@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a research assistant at Mohamed bin Zayed University of Artificial Intelligence(MBZUAI, Abu Dhabi) under [Dr, Salman Khan](https://salman-h-khan.github.io/). My research has focused on using large-scale image-language models in continual learning.
+I am a research assistant at Mohamed bin Zayed University of Artificial Intelligence(MBZUAI, Abu Dhabi) under [Dr. Salman Khan](https://salman-h-khan.github.io/). My research has focused on using large-scale image-language models in continual learning.
 
 I received my bachelor's degree from [SGGS Institute of Engineering and Technology](https://www.sggs.ac.in/) Nanded (India) in Electronics and Telecommunication Engineering. I completed my bachelor thesis at [NTU Singapore](https://www.ntu.edu.sg/) titled "Night-time vehicle classification using unsupervised domain adaptation" with [prof. Lam Siew Kei](https://personal.ntu.edu.sg/assklam/).
 
