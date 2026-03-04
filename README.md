@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## About
 
 I am a Joint PhD student at the University of Surrey (UK) and the University of Wollongong (Australia), supervised by
-Dr. Xiatian Zhu and Dr. Salim Bouzerdoum.
+Dr. [Xiatian Zhu](https://x-up-lab.github.io) and Dr. [Salim Bouzerdoum](https://scholars.uow.edu.au/a-bouzerdoum).
 
 My research focuses on 3D computer vision, point cloud understanding, and continual learning, with an emphasis on few-shot and class-incremental learning for 3D scene understanding. I am particularly interested in developing scalable learning systems that can adapt to new classes and environments while preserving previously learned knowledge.
