@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **vgthengane/vgthengane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-## About
+#### About
 
 I am a Joint PhD student at the University of Surrey (UK) and the University of Wollongong (Australia), supervised by
 Dr. [Xiatian Zhu](https://x-up-lab.github.io) and Dr. [Salim Bouzerdoum](https://scholars.uow.edu.au/a-bouzerdoum).
