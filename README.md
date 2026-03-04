@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **vgthengane/vgthengane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
 
-I am a research assistant at Mohamed bin Zayed University of Artificial Intelligence(MBZUAI, Abu Dhabi) under [Dr. Salman Khan](https://salman-h-khan.github.io/) and [Dr. Fahad Khan](https://sites.google.com/view/fahadkhans/home). My research has focused on using large-scale image-language models in continual learning.
+## About
 
-I received my bachelor's degree from [SGGS Institute of Engineering and Technology](https://www.sggs.ac.in/) Nanded (India) in Electronics and Telecommunication Engineering. I completed my bachelor thesis at [NTU Singapore](https://www.ntu.edu.sg/) titled "Night-time vehicle classification using unsupervised domain adaptation" with [prof. Lam Siew Kei](https://personal.ntu.edu.sg/assklam/).
+I am a Joint PhD student at the University of Surrey (UK) and the University of Wollongong (Australia), supervised by
+Dr. Xiatian Zhu and Dr. Salim Bouzerdoum.
 
-My research interest lies in machine learning, AI and physics. I am excited about the application of machine learning and artificial intelligence in physics and astronomy.
-
-I am looking for collaboration on projects related to the application of machine learning in quantum physics, astronomy. 
+My research focuses on 3D computer vision, point cloud understanding, and continual learning, with an emphasis on few-shot and class-incremental learning for 3D scene understanding. I am particularly interested in developing scalable learning systems that can adapt to new classes and environments while preserving previously learned knowledge.
