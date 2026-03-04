@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+I am **Vishal Thengane**, a joint PhD student at the **University of Surrey (UK)** and the **University of Wollongong (Australia)**, supervised by  
+Dr. [Xiatian Zhu](https://x-up-lab.github.io) and Dr. [Salim Bouzerdoum](https://scholars.uow.edu.au/a-bouzerdoum).
+
+My research focuses on **3D computer vision, point cloud understanding, and continual learning**, with an emphasis on **few-shot and class-incremental learning for 3D scene understanding**. I am particularly interested in developing scalable learning systems that can **adapt to new classes and environments while preserving previously learned knowledge**.
+
+#### Research
+- [ContinualCLIP](https://github.com/vgthengane/Continual-CLIP): First work showing that CLIP can be extended to continual learning in a zero-shot setting.
+- [CLIMB-3D](https://github.com/vgthengane/CLIMB3D): Continual learning for long-tail point cloud instance segmentation.
+- [SCOPE](https://github.com/vgthengane/SCOPE): Few-shot class-incremental learning for point cloud segmentation.
+
+#### Research Interests
+- Continual Learning
+- Few-Shot Learning
+- 3D Computer Vision
+- Point Cloud Segmentation
+- Foundation Models for 3D Understanding
+
 <!--
 **vgthengane/vgthengane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +32,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-#### About
 
-I am a Joint PhD student at the University of Surrey (UK) and the University of Wollongong (Australia), supervised by
-Dr. [Xiatian Zhu](https://x-up-lab.github.io) and Dr. [Salim Bouzerdoum](https://scholars.uow.edu.au/a-bouzerdoum).
-
-My research focuses on 3D computer vision, point cloud understanding, and continual learning, with an emphasis on few-shot and class-incremental learning for 3D scene understanding. I am particularly interested in developing scalable learning systems that can adapt to new classes and environments while preserving previously learned knowledge.
